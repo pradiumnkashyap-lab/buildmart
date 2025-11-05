@@ -1,0 +1,26 @@
+[
+  {
+    "id": "p1",
+    "title": "Cement \u2013 50kg (UltraTech)",
+    "category": "Civil",
+    "price": 420,
+    "img": "/src/assets/cement.svg",
+    "desc": "50kg bag of OPC cement."
+  },
+  {
+    "id": "p2",
+    "title": "PVC Pipe 3m (Astral)",
+    "category": "Plumbing",
+    "price": 220,
+    "img": "/src/assets/pvc.svg",
+    "desc": "3 meter PVC pipe, schedule 40."
+  },
+  {
+    "id": "p3",
+    "title": "Interior Emulsion 10L (Asian Paints)",
+    "category": "Paint",
+    "price": 2800,
+    "img": "/src/assets/paint.svg",
+    "desc": "10 liter interior emulsion."
+  }
+]
